@@ -12,7 +12,7 @@ This repository contains a Jupyter Notebook (`songpopulation.ipynb`) that analyz
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/siddhunayak/songpopulation.git
+   git clone https://github.com/varshinivarma16/songpopulation.git
    cd songpopulation
    ```
 
